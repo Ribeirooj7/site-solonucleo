@@ -242,6 +242,12 @@ body {
   flex-wrap: wrap;
 }
 
+.hero-buttons img {
+  margin-right: 8px;
+}
+
+
+
 /* Botões principais */
 .btn-primary {
   background: var(--verde);
@@ -688,7 +694,6 @@ body {
 
 .contatos a {
   color: var(--branco);
-  
 }
 
 /* Rodapé */
@@ -724,6 +729,10 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.whatsapp-float img {
+  margin-right: 8px;
 }
 
 .contatos{
